@@ -30,4 +30,4 @@ output: html_document
  
  * BigDataTable.txt is a the result of merging the datasets. It contains 10299 records and 68 variables.
  * The dataset variables include the user, the activity they were engaged in and the 66 variables of mean and standard deviations.
- * summaryTable.txt contains a summary of the BigDataTable.txt dataset
+ * tidyTable.txt contains a summary of the BigDataTable.txt dataset
